@@ -1,0 +1,19 @@
+{
+    "fluentMethods": true,
+    "clientRootFolder": "",
+    "relationships": [],
+    "fields": [
+        {
+            "fieldName": "tag",
+            "fieldType": "String"
+        }
+    ],
+    "changelogDate": "20180509064625",
+    "dto": "no",
+    "service": "no",
+    "entityTableName": "position",
+    "jpaMetamodelFiltering": false,
+    "pagination": "no",
+    "microserviceName": "orderbook",
+    "searchEngine": false
+}
